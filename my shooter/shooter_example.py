@@ -8,7 +8,7 @@ win = display.set_mode(size=(700, 500))
 mixer.init()
 fire_sound = mixer.Sound("fire.ogg")
 
-mixer.music.load("TWICE - What Is Love (Easy Lyrics).mp3")
+mixer.music.load("C:/Users/akibi/MUSIC/TWICE - What Is Love (Easy Lyrics).mp3")
 mixer.music.set_volume(0.2)
 mixer.music.play()
 

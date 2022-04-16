@@ -10,7 +10,7 @@ mixer.init()
 fire_sound = mixer.Sound("fire.ogg")
 fire_sound.set_volume(0.2)
 
-mixer.music.load("C:/Users/akibi/MUSIC/TWICE - What Is Love (Easy Lyrics).mp3")
+mixer.music.load("TWICE - What Is Love (Easy Lyrics).mp3")
 mixer.music.set_volume(0.02)
 mixer.music.play()
 
